@@ -2,7 +2,7 @@
 
 # Luana Calderon 
 
-![Foto Luani](./assets/luani.jpg)
+![Foto Luani](./assets/foto.jpg)
 
 ¡Hola! Mi nombre es Luana Calderón, aunque suelo ser conocida como Lu o Luani. Me apasiona la creatividad y el aprendizaje continuo, razón por la cual decidí inscribirme en la tecnicatura en programación. En este momento, me encuentro emocionada cursando mi segundo año de estudios.
 
