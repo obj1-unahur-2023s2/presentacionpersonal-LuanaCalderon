@@ -2,7 +2,7 @@
 
 # Luana Calderon 
 
-![Foto Luani](./assets/luani.png)
+![Foto Luani](./assets/luani.jpg)
 
 ¡Hola! Mi nombre es Luana Calderón, aunque suelo ser conocida como Lu o Luani. Me apasiona la creatividad y el aprendizaje continuo, razón por la cual decidí inscribirme en la tecnicatura en programación. En este momento, me encuentro emocionada cursando mi segundo año de estudios.
 
@@ -29,4 +29,4 @@ En cuanto al cine, tengo un profundo respeto por el trabajo del director Christo
 
 * En cuanto a la música disfruto escuchando una variedad de géneros... Los Fabulosos Cadillacs, Mon Laferte, Los Auténticos Decadentes, Green Day y muchos mas. La música es otra forma en la que puedo conectarme con mis emociones.
 
-![foto de mi pequeño jardin](./assets/jardin.png)
+![foto de mi pequeño jardin](./assets/jardin.jpg)
